@@ -7,7 +7,11 @@ Working in a branch called `answer`, implement your function to get your tests t
 
 ## Password Rules
 * Must be a minimum of 8 characters
+
 * Must contain at least one lower case letter
+
 * Must contain at least one upper case letter
+
 * Must contain at least one numeric value
+
 * Must contain at least one special character
